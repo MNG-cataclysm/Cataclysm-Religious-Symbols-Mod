@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "religious",
+    "name": "Religious Symbols Expansion",
+    "authors": [ "Cosmic Anjelo" ],
+    "description": "This mods adds a lot of variants for the holy symbol item!.",
+    "category": "itens",
+    "dependencies": [ "dda" ]
+  }
+]
